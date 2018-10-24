@@ -7,6 +7,7 @@
 		German:"Nächste Runde"
 		Dutch:"Volgende beurt"
 		Spanish:"Siguiente turno"
+                Filipino:"Sunod na turno"
 	}
 	
 	"Working...":{ // Displayed when next turn is being...turned
@@ -16,6 +17,7 @@
 		Romanian:"Lucru..."
 		Dutch:"Verwerken..."
 		Spanish:"Trabajando..."
+	        Filipino:"Nagtatrabaho"
 	}
 	
 	"Turn":{ // For main screen at top left, e.g. Turn 234
@@ -26,6 +28,7 @@
 		German:"Runde"
 		Dutch:"Beurt"
 		Spanish:"Turno"
+		Filipino:"Turnong"
 	}
 
 	"in":{ // As in "Opera House in 3 turns"
@@ -36,6 +39,7 @@
 		German:"in"
 		Dutch:"in"
 		Spanish:"en"
+		Filipino:"sa"
 	}
 	
 	"turns":{ // for e.g. turns to technology
@@ -46,6 +50,7 @@
 		German:"Runden"
 		Dutch:"Beurten"
 		Spanish:"turnos"
+		Filipino:"Turnong"
 	}
 
 	// Unit
@@ -57,6 +62,7 @@
 		German:"Bewegungen"
 		Dutch:"Mobieliteit"
 		Spanish:"Movimiento"
+		Filipino:"galaw"
 	}
 
 	"Strength":{
@@ -67,6 +73,7 @@
 		German:"Stärke"
 		Dutch:"Kracht"
 		Spanish:"Fuerza"
+		Filipino:"lakas"
 	}
 
 	"Ranged strength":{
@@ -77,6 +84,7 @@
 		German:"Fernkampf Stärkte"
 		Dutch:"Kracht op afstand"
 		Spanish:"Fuerza a distancia"
+		Filipino:"lakas ng pangmalayuan"
 	}
 
 	"Move unit":{
@@ -87,6 +95,7 @@
 		German:"Einheit bewegen"
 		Dutch:"Eenheid verplaatsen"
 		Spanish:"Mover unidad"
+		Filipino:"ikilus ang yunit"
 	}
 
 	"Stop movement":{
@@ -97,6 +106,7 @@
 		German:"Bewgen abbrechen"
 		Dutch:"Verplaatsen stoppen"
 		Spanish:"Parar movimiento"
+		Filipino:"ihinto ang kilos"
 	}
 
 	"Construct improvement":{
@@ -107,6 +117,7 @@
 		German:"Verbesserung bauen"
 		Dutch:"Verbetering bouwen"
 		Spanish:"Construir mejora"
+		Filipino:"gumawa ng pagbubuti"
 	}
 
 	"Automate":{
@@ -117,6 +128,7 @@
 		German:"Automatisieren"
 		Dutch:"Autoatiseren"
 		Spanish:"Automatizar"
+		Filipino:"awtomatik"
 	}
 
 	"Fortify":{
@@ -127,6 +139,7 @@
 		German:"Befestigen"
 		Dutch:"Versterken"
 		Spanish:"Fortificar"
+		Filipino:"kutaan"
 	}
 	
 	"Fortification":{ // as in "+40% Fortification"
@@ -137,6 +150,7 @@
 		German:"Befestigung"
 		Dutch:"Versterking"
 		Spanish:"Fortificación"
+		Filipino:"tibay"
 	}
 
 	"Set up":{ // For siege units
@@ -147,6 +161,7 @@
 		German:"Aufstellen"
 		Dutch:"Opstellen"
 		Spanish:"Montar"
+		Filipino:"ihanda"
 	}
 	
 	"Upgrade to [unitType] ([goldCost] gold)":{ // EG Upgrade to Cannon (140 gold)
@@ -155,6 +170,7 @@
 		French:"Mise à niveau vers [unitType] ([goldCost] or)"
 		Romanian:"Treceți la [unitType] (aurul [goldCost])"
 		Spanish:"Mejorar a [unitType] ([goldCost] de oro)"
+		Filipino:"i-upgrade sa [unitType] ([goldCost] ginto )"
 	}
 	
 	"Found city":{
@@ -165,6 +181,7 @@
 		German:"Stadt gründen"
 		Dutch:"Stad stichten"
 		Spanish:"Fundar ciudad"
+		Filipino:"magtatag ng syudad"
 	}
 	
 	"Promote":{
@@ -175,6 +192,7 @@
 		German:"Befördern"
 		Dutch:"Promoveren"
 		Spanish:"Ascender"
+		Filipino:"itaas ang ranggo"
 	}
 
 	"Health":{
@@ -185,6 +203,7 @@
 		German:"Gesundheit"
 		Dutch:"Gezondheid"
 		Spanish:"Salud"
+		Filipino:"Buhay"
 	}
 
 	"Disband unit":{
@@ -194,6 +213,7 @@
 		Romanian:"Desfaceți unitatea"
 		Dutch:"Eenheid opheffen"
 		Spanish:"Disolver unidad"
+		Filipino:"Tanggalin ang yunit"
 	}
 	
 	"Do you really want to disband this unit?":{
@@ -203,6 +223,7 @@
 		Romanian:""
 		Dutch:"Wil je echt deze eenheid opheffen"
 		Spanish:"¿Realmente quieres disolver esta unidad?"
+		Filipino:"Gusto mo ba tanggalin ang yunit na to?"
 	}
 	"Yes":{
 		Italian:"Sì"
@@ -211,6 +232,7 @@
 		Romanian:"Da"
 		Dutch:"Ja"
 		Spanish:"Sí"
+		Filipino:"Oo"
 	}
 	"No":{
 		Italian:"No"
@@ -219,6 +241,7 @@
 		Romanian:"Nu"
 		Dutch:"Nee"
 		Spanish:"No"
+		Filipino:"Hindi"
 	}
 	
 
@@ -231,6 +254,7 @@
 		German:"Gold"
 		Dutch:"Goud"
 		Spanish:"Oro"
+		Filipino:"Ginto"
 	}
 
 	"Science":{
@@ -241,6 +265,7 @@
 		German:"Erforschung"
 		Dutch:"Wetenschap"
 		Spanish:"Ciencia"
+		Filipino:"agham"
 	}
 
 	"Happiness":{
@@ -251,6 +276,7 @@
 		German:"Zufriedenheit"
 		Dutch:"Tevredenheid"
 		Spanish:"Felicidad"
+		Filipino:"kaligayahan"
 	}
 
 	"Production":{
@@ -261,6 +287,7 @@
 		German:"Produktion"
 		Dutch:"Productie"
 		Spanish:"Producción"
+		Filipino:"Produksyon"
 	}
 
 	"Culture":{
@@ -271,6 +298,7 @@
 		German:"Kultur"
 		Dutch:"Cultuur"
 		Spanish:"Cultura"
+		Filipino:"Kultura"
 	}
 
 	"Food":{
@@ -281,6 +309,7 @@
 		German:"Speise"
 		Dutch:"Eten"
 		Spanish:"Comida"
+		Filipino:"Pagkain"
 	}
 	
 	"GOLDEN AGE":{
@@ -291,6 +320,7 @@
 		German:"GOLDENES ZEITALTER"
 		Dutch:"GOUDEN EEUW"
 		Spanish:"EDAD DE ORO"
+		Filipino:"Gintong panahon"
 	}
 
 	
@@ -299,6 +329,7 @@
 	"Civilopedia":{
 		Russian:"Цивилопедия"
 		Spanish:"Civilopedia"
+		Filipino:"Sibilopedia"
 	}
 
 	"Start new game":{
@@ -309,6 +340,7 @@
 		German:"Neues Spiel"
 		Dutch:"Nieuw spel"
 		Spanish:"Nueva partida"
+		Filipino:"Magsimala ng bagong laro"
 	}
 	
 	"Save game":{
@@ -319,6 +351,7 @@
 		German:"Speichern"
 		Dutch:"Spel opslaan"
 		Spanish:"Salvar partida"
+		Filipino:"i-save ang laro"
 	}
 	
 	"Load game":{
@@ -329,6 +362,7 @@
 		German:"Spiel laden"
 		Dutch:"Spel laden"
 		Spanish:"Cargar partida"
+		Filipino:"magload ng laro"
 	}
 	
 	"Load copied data":{
@@ -339,6 +373,8 @@
 		German:"Aus ZWischenablage laden"
 		Dutch:"Gekopieerde data laden"
 		Spanish:"Cargar datos copiados"
+		Filipino:"naload na kopya ng data"
+		
 	}
 	
 	// New game screen
@@ -349,6 +385,7 @@
 		French:"Démarrer jeu!"
 		Romanian:"Incepe jocul!"
 		Spanish:"¡Empezar partida!"
+		Filipino:"magsimala ng laro!"
 	}
 	"Civilization:":{
 		Italian:"Civiltà:"
@@ -356,6 +393,7 @@
 		French:"Civilisation:"
 		Romanian:"Civilizaţie:"
 		Spanish:"Civilización"
+		Filipino:"Kabihasnan"
 	}
 	"World size:":{
 		Italian:"Dimensione mappa:"
@@ -363,6 +401,7 @@
 		French:"La taille du monde:"
 		Romanian:"Mărimea pamintului:"
 		Spanish:"Tamaño del mundo"
+		Filipino:"laki ng mundo"
 	}
 	"Number of enemies:":{
 		Italian:"Numero di nemici:"
@@ -370,6 +409,7 @@
 		French:"Nombre d'ennemis:"
 		Romanian:"Numărul de dușmani:"
 		Spanish:"Número de enemigos"
+		Filipino:"dami ng kalaban"
 	}
 	
 
@@ -381,6 +421,7 @@
 		German:"Siegesstatus"
 		Dutch:"Overwinning Status"
 		Spanish:"Estatus de victoria"
+		Filipino:"katayuan ng tagumpay"
 	}
 
 	"Social policies":{
@@ -391,6 +432,7 @@
 		German:"Sozialpolitiken"
 		Dutch:"Sociaal beleid"
 		Spanish:"Políticas sociales"
+		Filipino:"Patakarang panlipunan"
 	}
 
 	"Display options":{
@@ -401,6 +443,7 @@
 		German:"Anzeigeeinstellungen"
 		Dutch:"Weergaveopties"
 		Spanish:"Opciones de pantalla"
+		Filipino:"i dispay ang mga opsyon"
 	}
 	
 	"Show":{
@@ -411,6 +454,7 @@
 		German:"Zeigen"
 		Dutch:"Toon"
 		Spanish:"Mostrar"
+		Filipino:"ipakita"
 	}
 
 	"Hide":{
@@ -421,6 +465,7 @@
 		German:"Verstecken"
 		Dutch:"Verberg"
 		Spanish:"Ocultar"
+		Filipino:"Itago"
 	}
 	
 	"worked tiles":{
@@ -431,6 +476,7 @@
 		German:"bearbeitete Felder"
 		Dutch:"Bewerkte velden"
 		Spanish:"casillas trabajadas"
+		Filipino:"napagtrabahoang tiles"
 	}
 
 	"resources and improvements":{
@@ -441,6 +487,7 @@
 		German:"Ressourcen und Verbesserungen"
 		Dutch:"Grondstoffen en Verbeteringen"
 		Spanish:"recursos y mejoras"
+		Filipino:"kayamanan at paghusay"
 	}
 
 	"Close":{
@@ -451,6 +498,7 @@
 		German:"Schliessen"
 		Dutch:"Sluiten"
 		Spanish:"Cerrar"
+		Filipino:"isara"
 	}
 
 	// City screen
@@ -462,6 +510,7 @@
 		German:"Stadt schliessen"
 		Dutch:"Stadscherm sluiten"
 		Spanish:"Salir de la ciudad"
+		Filipino:"lumabas sa syudad"
 	}
 
 	"Raze city":{
@@ -472,6 +521,7 @@
 		German:"Stadt zerstören"
 		Dutch:"Stad vernietigen"
 		Spanish:"Arrasar ciudad"
+		Filipino:"wasakin ang syudad"
 	}
 
 	"Stop razing city":{
@@ -482,6 +532,7 @@
 		German:"Zerstörung aufheben"
 		Dutch:"Stad vernieteging stoppen"
 		Spanish:"Dejar de arrasar ciudad"
+		Filipino:"ihinto ang pagwasak sa syudad"
 	}
 
 	"Buy for [amount] gold":{
@@ -492,6 +543,7 @@
 		German:"Für [amount] gold kaufen"
 		Dutch:"Voor [amount] gold kopen"
 		Spanish:"Comprar por [amount] de oro"
+		Filipino:"bihin ng [amount] ginto"
 	}
 
 	"Maintenance cost":{
@@ -502,6 +554,7 @@
 		German:"Wartungskosten"
 		Dutch:"Onderhouskosten"
 		Spanish:"Coste de mantenimiento"
+		Filipino:"gastos sa pagpapanatili"
 	}
 	
 	"Pick construction":{
@@ -512,6 +565,7 @@
 		German:"Bauwerk auswählen"
 		Dutch:"Bouwwerk kiezen"
 		Spanish:"Elige la construcción"
+		Filipino:"pumili ng konstruksyon"
 	}
 	
 	"Build [building]":{ // eg Build Granary
@@ -522,6 +576,7 @@
 		German:"[building] bauen"
 		Dutch:"[building] bouwen"
 		Spanish:"Construir [building]"
+		Filipino:"magtayo [building]"
 	}
 	
 	"Train [unit]":{ // eg Train Scout
@@ -532,6 +587,7 @@
 		German:"[unit] rekrutieren"
 		Dutch:"[unit] rekruteren"
 		Spanish:"Entrenar [unit]"
+		Filipino:"magsanay [unit]"
 	}
 	
 	"Produce [thingToProduce]":{ // eg Produce gold
@@ -542,6 +598,7 @@
 		German:"[thingToProduce] Herstellen"
 		Dutch:"[thingToProduce] produceren"
 		Spanish:"Producir [thingToProduce]"
+		Filipino:"gumawa [thingsToProduce]"
 	} 
 	
 	"Nothing":{ // A city can choose to "idle" and produce nothing
@@ -552,6 +609,7 @@
 		German:"Faul dasitzen"
 		Dutch:"Niks"
 		Spanish:"Nada"
+		Filipino:"wala"
 	} 
 	
 	// Tech picker
@@ -563,6 +621,7 @@
 		German:"Technologie auswählen"
 		Dutch:"Technologie kiezen"
 		Spanish:"Elige una tecnología"
+		Filipino:"Pumili ng teknolohiya"
 	}
 	
 	"Pick a free tech":{
@@ -572,6 +631,7 @@
 		Romanian:"Alege o tehnologie gratuită"
 		Dutch:"Gratis technologie kiezen"
 		Spanish:"Elige una tecnología gratis"
+		Filipino:"Pumili ng libreng teknolohiya"
 	}
 
 	"Research [technology]":{ // eg "Research Pottery"
@@ -582,6 +642,7 @@
 		German:"[technology] Erforschen"
 		Dutch:"[technologie] onderzoeken"
 		Spanish:"Investigar [technology]"
+		Filipino:"magsaliksik [technology]"
 	}
 	
 	
@@ -592,6 +653,7 @@
 		Romanian:"Alegeți [tehnology] ca tehnologie gratuită"
 		Dutch:"[technologie] kiezen als gratis technologie"
 		Spanish:"Elegir [technology] como tecnología gratis"
+		Filipino:"Piliin ang [technology] sa libreng teknolohiya"
 	}
 
 	"Units enabled":{
@@ -602,6 +664,7 @@
 		German:"Freigeschaltete Einheiten"
 		Dutch:"Eenheden vrijgespeeld"
 		Spanish:"Unidades habilitadas"
+		Filipino:"pinagana yunit"
 	}
 
 	"Buildings enabled":{
@@ -612,6 +675,7 @@
 		German:"Freigeschaltete Bauwerke"
 		Dutch:"Gebouwen vreijgespeeld"
 		Spanish:"Edificios habilitados"
+		Filipino:"pinagana ang gusali"
 	}
 	
 	"Wonder":{
@@ -622,6 +686,7 @@
 		German:"Wunder"
 		Dutch:"Wonder"
 		Spanish:"Maravilla"
+		Filipino:"Wander"
 	}
 	
 	"Wonders enabled":{
@@ -632,6 +697,7 @@
 		German:"Freigschaltete Wunder"
 		Dutch:"Wonders vrijgespeeld"
 		Spanish:"Maravillas habilitadas"
+		Filipino:"Pinagana ang wander"
 	}
 
 	"Tile improvements enabled":{
@@ -642,6 +708,7 @@
 		German:"Freigschaltete Feldverbesserungen"
 		Dutch:"Verbeteringen vrijgespeeld"
 		Spanish:"Mejoras de casilla habilitadas"
+		Filipino:"Pinagana ang paghusay ng tiles"
 	}
 
 	"Reveals [resource] on the map":{ // As in "Reveals Coal on the map"
@@ -652,6 +719,7 @@
 		German:"Zeigt [resource] auf der Karte"
 		Dutch:"Onthuld [recource] op de kaart"
 		Spanish:"Descubre [resource] en el mapa"
+		Filipino:"Ipakita ang [resources] sa mapa"
 	}
 	
 	"XP for new units":{
@@ -661,6 +729,7 @@
 		Romanian:"XP pentru unități noi"
 		Dutch:"XP voor nieuwe eenheden"
 		Spanish:"PX para unidades nuevas"
+		Filipino:"XP para sa bagong yunit"
 	}
 	
 	"provide":{ // as in "Camp, Customs House provide +1 Gold"
@@ -671,6 +740,7 @@
 		German:"generieren"
 		Dutch:"genereren"
 		Spanish:"proporcionan"
+		Filipino:"Nagbigay"
 	}
 
 	"provides":{ // as in "Camp provides +1 Gold" (singular of above)
@@ -681,6 +751,7 @@
 		German:"generiert"
 		Dutch:"genereert"
 		Spanish:"proporciona"
+		Filipino:"nagbibigay"
 	}
 	
 
@@ -696,7 +767,8 @@
 		Romanian:"[cityName] a crescut!"
 		German:"[cityName] ist gewachsen!"
 		Dutch:"[cityName] is gegroeid!"
-		Spanish:"¡[cityName] ha crecido!"
+		Spanish:"[cityName] ha crecido!"
+		Filipino:"[cityName] ay lumago!" 
 	}
 	
 	"[cityName] has been founded!":{
@@ -707,6 +779,7 @@
 		German:"[cityName] wurde gegründet!"
 		Dutch:"[cityName] is gesticht!"
 		Spanish:"¡[cityName] ha sido fundada!"
+		Filipino:"[cityName] ay naitatag!"
 	}
 	
 	"[cityName] has been razed to the ground!":{
@@ -717,6 +790,7 @@
 		German:"[cityName] wurde dem Erdboden gleichgemacht!"
 		Dutch:"[cityName] Is totaal verwoest!"
 		Spanish:"¡[cityName] ha sido arrasada hasta los cimientos!"
+		Filipino:"[cityName] ay sinira ng tuloyan!"
 	}
 	
 	"We have conquered the city of [cityname]!":{
@@ -727,6 +801,7 @@
 		German:"Wir haben die Stadt [cityname] eingenommen!"
 		Dutch:"We hebben de stad [cityname] ingenomen!"
 		Spanish:"¡Hemos conquistado la ciudad de [cityname]!"
+		Filipino:"Na sakop natin ang syudad ng [cityname]!"
 	}
 	
 	"Research of [technologyName] has completed!":{ // For technology notifications EG Research of Writing has completed
